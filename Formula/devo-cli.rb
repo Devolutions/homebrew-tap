@@ -1,4 +1,4 @@
-class Devo < Formula
+class DevoCli < Formula
   desc "Devolutions CLI for RDM, Devolutions Cloud and Devolutions Server workspaces"
   homepage "https://devolutions.net"
   license :cannot_represent
