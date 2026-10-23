@@ -5,23 +5,23 @@ class DevoCli < Formula
 
   on_macos do
     on_arm do
-      url "https://cdn.devolutions.net/download/devo-cli-osx-arm64-2026.3.1.0.tar.gz"
-      sha256 "2cc7fcf777a617e19aeb1de69649917c99e3e9c40ac0e1be21347d6de295567a"
+      url "https://cdn.devolutions.net/download/devo-cli-osx-arm64-2026.3.2.0.tar.gz"
+      sha256 "5f4322e182ef41e17128474ec570faddb58d7e94b283753223d196914ab85491"
     end
     on_intel do
-      url "https://cdn.devolutions.net/download/devo-cli-osx-x64-2026.3.1.0.tar.gz"
-      sha256 "cdae25dcf005e9dc6f131f388240a9330c62c0d2a77f71772267274e5cb90930"
+      url "https://cdn.devolutions.net/download/devo-cli-osx-x64-2026.3.2.0.tar.gz"
+      sha256 "5617840502ff86fec01ed7908c7eec9280f5a3463fee65aead8f51910244fb50"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://cdn.devolutions.net/download/devo-cli-linux-arm64-2026.3.1.0.tar.gz"
-      sha256 "27e8bbae1eeafef7e1debb3510d183a6c7df88fa7955f29535f41e8f7fde119e"
+      url "https://cdn.devolutions.net/download/devo-cli-linux-arm64-2026.3.2.0.tar.gz"
+      sha256 "0e770d11b61165ea8adc2c2a801d9b26a4c7597223de287c45b1cecdad8a09fe"
     end
     on_intel do
-      url "https://cdn.devolutions.net/download/devo-cli-linux-x64-2026.3.1.0.tar.gz"
-      sha256 "dc3d4f5e6d6e1b5470238bf2caa38f3fae9d5dd7e239542c3bfa389a971038df"
+      url "https://cdn.devolutions.net/download/devo-cli-linux-x64-2026.3.2.0.tar.gz"
+      sha256 "b35e248dcefa7a78f3737f559558d7d92db6a52ef71858527123702fe2d05868"
     end
   end
 
