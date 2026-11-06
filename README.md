@@ -4,6 +4,8 @@ Devolutions Homebrew tap.
 
 ```sh
 brew install devolutions/tap/devo-cli
+brew install --cask devolutions/tap/devolutions-terminal
+brew install --cask devolutions/tap/jiffshot
 brew install --cask devolutions/tap/unigetui
 ```
 
